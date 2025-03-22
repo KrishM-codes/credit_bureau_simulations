@@ -1,0 +1,79 @@
+{
+    "Normalized Evaluation": {
+        "bureau": "Normalized Evaluation",
+        "panNumber": "ABCDE1234F",
+        "username": "Vikas Rambilas Mundada",
+        "creditScore": 0,
+        "scoreRange": { "min": 300, "max": 900 },
+        "lastUpdated": "2023-05-15",
+        "currentLoans": [
+            { "amount": 1500000, "bank": "HDFC Bank", "timePeriod": 60 },
+            { "amount": 200000, "bank": "ICICI Bank", "timePeriod": 12 }
+        ],
+        "defaults": [
+            { "bank": "Axis Bank", "count": 1 }
+        ],
+        "settledLoans": [
+            { "amount": 500000, "bank": "SBI Bank", "timePeriod": 36 }
+        ],
+        "missedPayments": [
+            { "bank": "HDFC Bank", "count": 2 },
+            { "bank": "ICICI Bank", "count": 1 }
+        ]
+    },
+    "CIBIL": {
+        "bureau": "CIBIL",
+        "panNumber": "ABCDE1234F",
+        "username": "Vikas Rambilas Mundada",
+        "creditScore": 785,
+        "scoreRange": { "min": 300, "max": 900 },
+        "lastUpdated": "2023-05-15",
+        "currentLoans": [{ "amount": 500000, "bank": "HDFC Bank", "timePeriod": 60 }],
+        "defaults": [
+            { "bank": "HDFC Bank", "count": 2 }
+        ],
+        "settledLoans": [
+            { "amount": 300000, "bank": "SBI", "timePeriod": 48 }
+        ],
+        "missedPayments": [{ "bank": "HDFC Bank", "count": 3 }]
+    },
+    "Experian": {
+        "bureau": "Experian",
+        "panNumber": "ABCDE1234F",
+        "username": "Vikas Rambilas Mundada",
+        "creditScore": 780,
+        "scoreRange": { "min": 300, "max": 900 },
+        "lastUpdated": "2023-04-28",
+        "currentLoans": [
+            { "amount": 520000, "bank": "Axis Bank", "timePeriod": 60 }
+        ],
+        "defaults": [
+            { "bank": "Axis Bank", "count": 1 }
+        ],
+        "settledLoans": [
+            { "amount": 310000, "bank": "SBI Bank", "timePeriod": 48 }
+        ],
+        "missedPayments": [
+            { "bank": "Axis Bank", "count": 2 }
+        ]
+    },
+    "Equifax": {
+        "bureau": "Equifax",
+        "panNumber": "ABCDE1234F",
+        "username": "Vikas Rambilas Mundada",
+        "creditScore": 770,
+        "scoreRange": { "min": 300, "max": 900 },
+        "lastUpdated": "2023-05-10",
+        "currentLoans": [
+            { "amount": 500000, "bank": "HDFC Bank", "timePeriod": 60 }],
+        "defaults": [
+            { "bank": "HDFC Bank", "count": 2 }
+        ],
+        "settledLoans": [
+            { "amount": 300000, "bank": "SBI", "timePeriod": 48 }
+        ],
+        "missedPayments": [
+            { "bank": "HDFC Bank", "count": 3 }
+        ]
+    }
+}

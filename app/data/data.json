@@ -1,0 +1,173 @@
+{
+        "cibil": {
+          "ABCDE1234F": {
+            "USERNAME": "Vikas Rambilas Mundada",
+            "CREDIT_SCORE": 785,
+            "CURRENT_LOANS": [{ "AMOUNT": 500000, "BANK": "HDFC Bank", "TIME_PERIOD": "5 years" }],
+            "NO_OF_TIMES_DEFAULTED": { "HDFC Bank": 2 },
+            "SETTLED_LOANS": [{ "AMOUNT": 300000, "BANK": "SBI", "TIME_PERIOD": "4 years" }],
+            "MISSED_PAYMENTS": { "HDFC Bank": 3 }
+          },
+          "XYZAB5678K": {
+            "USERNAME": "Priya Verma",
+            "CREDIT_SCORE": 720,
+            "CURRENT_LOANS": [{ "AMOUNT": 750000, "BANK": "Axis Bank", "TIME_PERIOD": "7 years" }],
+            "NO_OF_TIMES_DEFAULTED": { "Axis Bank": 1 },
+            "SETTLED_LOANS": [],
+            "MISSED_PAYMENTS": { "Axis Bank": 2 }
+          },
+          "LMNOP3456Y": {
+            "USERNAME": "Amit Kumar",
+            "CREDIT_SCORE": 650,
+            "CURRENT_LOANS": [{ "AMOUNT": 420000, "BANK": "ICICI Bank", "TIME_PERIOD": "4 years" }],
+            "NO_OF_TIMES_DEFAULTED": { "ICICI Bank": 4 },
+            "SETTLED_LOANS": [{ "AMOUNT": 150000, "BANK": "HDFC Bank", "TIME_PERIOD": "3 years" }],
+            "MISSED_PAYMENTS": { "ICICI Bank": 5 }
+          },
+          "QRSTU6789Z": {
+            "USERNAME": "Neha Joshi",
+            "CREDIT_SCORE": 810,
+            "CURRENT_LOANS": [{ "AMOUNT": 900000, "BANK": "SBI", "TIME_PERIOD": "10 years" }],
+            "NO_OF_TIMES_DEFAULTED": { "SBI": 0 },
+            "SETTLED_LOANS": [{ "AMOUNT": 200000, "BANK": "Axis Bank", "TIME_PERIOD": "5 years" }],
+            "MISSED_PAYMENTS": { "SBI": 1 }
+          },
+          "UVWXY9876P": {
+            "USERNAME": "Sanjay Patel",
+            "CREDIT_SCORE": 780,
+            "CURRENT_LOANS": [{ "AMOUNT": 620000, "BANK": "Yes Bank", "TIME_PERIOD": "6 years" }],
+            "NO_OF_TIMES_DEFAULTED": { "Yes Bank": 2 },
+            "SETTLED_LOANS": [],
+            "MISSED_PAYMENTS": { "Yes Bank": 2 }
+          }
+        },
+
+    "crif_highmark": {
+        "ABCDE1234F": {
+        "USERNAME": "Vikas Rambilas Mundada",
+        "CREDIT_SCORE": 760,
+        "CURRENT_LOANS": [{ "AMOUNT": 480000, "BANK": "ICICI Bank", "TIME_PERIOD": "6 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "ICICI Bank": 1 },
+        "SETTLED_LOANS": [{ "AMOUNT": 320000, "BANK": "SBI", "TIME_PERIOD": "5 years" }],
+        "MISSED_PAYMENTS": { "ICICI Bank": 2 }
+        },
+        "XYZAB5678K": {
+        "USERNAME": "Priya Verma",
+        "CREDIT_SCORE": 740,
+        "CURRENT_LOANS": [{ "AMOUNT": 700000, "BANK": "Kotak Mahindra Bank", "TIME_PERIOD": "6 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "Kotak Mahindra Bank": 2 },
+        "SETTLED_LOANS": [{ "AMOUNT": 200000, "BANK": "Axis Bank", "TIME_PERIOD": "3 years" }],
+        "MISSED_PAYMENTS": { "Kotak Mahindra Bank": 1 }
+        },
+        "LMNOP3456Y": {
+        "USERNAME": "Amit Kumar",
+        "CREDIT_SCORE": 670,
+        "CURRENT_LOANS": [{ "AMOUNT": 400000, "BANK": "HDFC Bank", "TIME_PERIOD": "5 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "HDFC Bank": 3 },
+        "SETTLED_LOANS": [{ "AMOUNT": 180000, "BANK": "ICICI Bank", "TIME_PERIOD": "4 years" }],
+        "MISSED_PAYMENTS": { "HDFC Bank": 4 }
+        },
+        "QRSTU6789Z": {
+        "USERNAME": "Neha Joshi",
+        "CREDIT_SCORE": 795,
+        "CURRENT_LOANS": [{ "AMOUNT": 850000, "BANK": "SBI", "TIME_PERIOD": "9 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "SBI": 1 },
+        "SETTLED_LOANS": [{ "AMOUNT": 230000, "BANK": "Yes Bank", "TIME_PERIOD": "5 years" }],
+        "MISSED_PAYMENTS": { "SBI": 2 }
+        },
+        "UVWXY9876P": {
+        "USERNAME": "Sanjay Patel",
+        "CREDIT_SCORE": 750,
+        "CURRENT_LOANS": [{ "AMOUNT": 650000, "BANK": "Axis Bank", "TIME_PERIOD": "7 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "Axis Bank": 3 },
+        "SETTLED_LOANS": [{ "AMOUNT": 100000, "BANK": "SBI", "TIME_PERIOD": "3 years" }],
+        "MISSED_PAYMENTS": { "Axis Bank": 2 }
+        }
+    },
+  
+  "equifax": {
+        "ABCDE1234F": {
+        "USERNAME": "Vikas Rambilas Mundada",
+        "CREDIT_SCORE": 770,
+        "CURRENT_LOANS": [{ "AMOUNT": 500000, "BANK": "HDFC Bank", "TIME_PERIOD": "5 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "HDFC Bank": 2 },
+        "SETTLED_LOANS": [{ "AMOUNT": 300000, "BANK": "SBI", "TIME_PERIOD": "4 years" }],
+        "MISSED_PAYMENTS": { "HDFC Bank": 3 }
+        },
+        "XYZAB5678K": {
+        "USERNAME": "Priya Verma",
+        "CREDIT_SCORE": 725,
+        "CURRENT_LOANS": [{ "AMOUNT": 750000, "BANK": "Axis Bank", "TIME_PERIOD": "7 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "Axis Bank": 1 },
+        "SETTLED_LOANS": [],
+        "MISSED_PAYMENTS": { "Axis Bank": 2 }
+        },
+        "LMNOP3456Y": {
+        "USERNAME": "Amit Kumar",
+        "CREDIT_SCORE": 660,
+        "CURRENT_LOANS": [{ "AMOUNT": 420000, "BANK": "ICICI Bank", "TIME_PERIOD": "4 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "ICICI Bank": 4 },
+        "SETTLED_LOANS": [{ "AMOUNT": 150000, "BANK": "HDFC Bank", "TIME_PERIOD": "3 years" }],
+        "MISSED_PAYMENTS": { "ICICI Bank": 5 }
+        },
+        "QRSTU6789Z": {
+        "USERNAME": "Neha Joshi",
+        "CREDIT_SCORE": 805,
+        "CURRENT_LOANS": [{ "AMOUNT": 900000, "BANK": "SBI", "TIME_PERIOD": "10 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "SBI": 0 },
+        "SETTLED_LOANS": [{ "AMOUNT": 200000, "BANK": "Axis Bank", "TIME_PERIOD": "5 years" }],
+        "MISSED_PAYMENTS": { "SBI": 1 }
+        },
+        "UVWXY9876P": {
+        "USERNAME": "Sanjay Patel",
+        "CREDIT_SCORE": 765,
+        "CURRENT_LOANS": [{ "AMOUNT": 620000, "BANK": "Yes Bank", "TIME_PERIOD": "6 years" }],
+        "NO_OF_TIMES_DEFAULTED": { "Yes Bank": 2 },
+        "SETTLED_LOANS": [],
+        "MISSED_PAYMENTS": { "Yes Bank": 2 }
+        }
+    },
+
+  "experian": {
+    "ABCDE1234F": {
+      "USERNAME": "Vikas Rambilas Mundada",
+      "CREDIT_SCORE": 780,
+      "CURRENT_LOANS": [{ "AMOUNT": 520000, "BANK": "Axis Bank", "TIME_PERIOD": "5 years" }],
+      "NO_OF_TIMES_DEFAULTED": { "Axis Bank": 1 },
+      "SETTLED_LOANS": [{ "AMOUNT": 310000, "BANK": "SBI", "TIME_PERIOD": "4 years" }],
+      "MISSED_PAYMENTS": { "Axis Bank": 2 }
+    },
+    "XYZAB5678K": {
+      "USERNAME": "Priya Verma",
+      "CREDIT_SCORE": 735,
+      "CURRENT_LOANS": [{ "AMOUNT": 780000, "BANK": "HDFC Bank", "TIME_PERIOD": "8 years" }],
+      "NO_OF_TIMES_DEFAULTED": { "HDFC Bank": 2 },
+      "SETTLED_LOANS": [{ "AMOUNT": 190000, "BANK": "Kotak Mahindra Bank", "TIME_PERIOD": "3 years" }],
+      "MISSED_PAYMENTS": { "HDFC Bank": 1 }
+    },
+    "LMNOP3456Y": {
+      "USERNAME": "Amit Kumar",
+      "CREDIT_SCORE": 650,
+      "CURRENT_LOANS": [{ "AMOUNT": 410000, "BANK": "SBI", "TIME_PERIOD": "4 years" }],
+      "NO_OF_TIMES_DEFAULTED": { "SBI": 3 },
+      "SETTLED_LOANS": [{ "AMOUNT": 140000, "BANK": "HDFC Bank", "TIME_PERIOD": "3 years" }],
+      "MISSED_PAYMENTS": { "SBI": 4 }
+    },
+    "QRSTU6789Z": {
+      "USERNAME": "Neha Joshi",
+      "CREDIT_SCORE": 810,
+      "CURRENT_LOANS": [{ "AMOUNT": 890000, "BANK": "ICICI Bank", "TIME_PERIOD": "9 years" }],
+      "NO_OF_TIMES_DEFAULTED": { "ICICI Bank": 0 },
+      "SETTLED_LOANS": [{ "AMOUNT": 220000, "BANK": "Yes Bank", "TIME_PERIOD": "5 years" }],
+      "MISSED_PAYMENTS": { "ICICI Bank": 1 }
+    },
+    "UVWXY9876P": {
+      "USERNAME": "Sanjay Patel",
+      "CREDIT_SCORE": 755,
+      "CURRENT_LOANS": [{ "AMOUNT": 600000, "BANK": "Kotak Mahindra Bank", "TIME_PERIOD": "6 years" }],
+      "NO_OF_TIMES_DEFAULTED": { "Kotak Mahindra Bank": 2 },
+      "SETTLED_LOANS": [{ "AMOUNT": 90000, "BANK": "Axis Bank", "TIME_PERIOD": "3 years" }],
+      "MISSED_PAYMENTS": { "Kotak Mahindra Bank": 3 }
+    }
+  }
+}   
